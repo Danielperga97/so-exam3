@@ -1,0 +1,5 @@
+[
+  "test_stats.py::test_getCPU",
+  "test_stats.py::test_getMemory",
+  "test_stats.py::test_getDisk"
+]
